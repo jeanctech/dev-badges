@@ -1,20 +1,18 @@
-# Markdown Badges
+# Flex Basics
 
-Add badges to your Profile and Projects.
+The Flexible Box Module, commonly called flexbox, was designed as a one-dimensional layout model, and as a method that can help distribute space between items in an interface and improve alignment capabilities. This article reviews the main features of flexbox, which we will explore in greater detail in the rest of these guides.
 
 ## Table of contents
 
-- Markdown Badges
+- Introduction
 - Table of contents
-- Usage
+- Usages
 - Tips
-- Contribution
-- License
-- Badges
-- List of badges
-- Usage
+- Contributions
+- Contacts
+- Licenses
 
-### Usage
+### Usages
 
 - Github
 
@@ -28,15 +26,15 @@ You could also visit the live site at ileriayo.github.io/markdown-badges/
 👇 How to use a different badge style
 👇 Use Ctrl + F or Cmd + F to search
 
-### Contribution
+### Contributions
 
 The project has a separate contribution file. Please adhere to the steps listed in the separate contributions file
 
-### Contact
+### Contacts
 
 - You can reach me on Twitter - X ```@jeanctech```
 - You can contact me on Github - ```@jeanctech```
 
-### License
+### Licenses
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
