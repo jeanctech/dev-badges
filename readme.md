@@ -18,7 +18,7 @@ The Flexible Box Module, commonly called flexbox, was designed as a one-dimensio
 
 Press + on your keyboard, to bring out the search modal.Ctrlf
 Enter the name of the badge you need.
-Copy the appropriate element and paste it in your Markdown file (e.g. Readme.md)! [Name](link)
+Copy the appropriate element and paste it in your Markdown file (e.g. readme.md)! [Name](link)
 You could also visit the live site at ileriayo.github.io/markdown-badges/
 
 ### Tips
