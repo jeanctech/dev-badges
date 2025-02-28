@@ -1,4 +1,4 @@
-# Flex Basics
+# Flexbox
 
 The Flexible Box Module, commonly called flexbox, was designed as a one-dimensional layout model, and as a method that can help distribute space between items in an interface and improve alignment capabilities. This article reviews the main features of flexbox, which we will explore in greater detail in the rest of these guides.
 
